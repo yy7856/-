@@ -1,6 +1,5 @@
 ✨ 项目概述
-![我的手表设计](/images/微信图片_20250922094018_86_220.jpg)
-![我的手表设计](/images/微信图片_20250922094018_85_220.jpg)
+
 本项目是一个完全开源的机械手表设计。它包含了所有必要的CAD设计文件（如STEP, STL）、零件清单（BOM）、以及详细的组装说明。我们的目标是让制表爱好者、工程师和学生们能够以较低的成本体验机械制表的魅力，并鼓励大家在此基础上进行学习、修改和创新。
 
 设计理念： 这是一款自动机械表，简约的外形搭配复杂的机械机芯，是包豪斯和柯布西耶的对撞
@@ -13,6 +12,19 @@
 机械工程专业的学生和教育者
 
 开源硬件社区
+
+实物照片
+S![微信图片_20250922094023_86_220](https://github.com/user-attachments/assets/f9c96999-209d-482f-b6b5-82e3ea8871c0)
+![微信图片_20250922094018_85_220](https://github.com/user-attachments/assets/81f11e13-87d0-4bea-976f-bdde620426ed)
+
+
+https://github.com/user-attachments/assets/0842e47e-befd-4b44-93c4-97af5a41a2af
+
+
+
+https://github.com/user-attachments/assets/bd1f7405-8c59-4fc4-a2c7-ee7b409de569
+
+
 
 ⚙️ 特性
 
