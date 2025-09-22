@@ -1,4 +1,4 @@
-**English** 
+**English** | [简体中文](README.md)
 ✨ Project Overview  
 
 This project is a fully open-source mechanical watch design. It includes all necessary CAD design files (such as STEP and STL), a bill of materials (BOM), and detailed assembly instructions. Our goal is to allow watch enthusiasts, engineers, and students to experience the charm of mechanical watchmaking at a low cost, while encouraging learning, modification, and innovation based on this project.  
