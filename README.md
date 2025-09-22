@@ -14,7 +14,7 @@
 开源硬件社区
 
 实物照片
-S![微信图片_20250922094023_86_220](https://github.com/user-attachments/assets/f9c96999-209d-482f-b6b5-82e3ea8871c0)
+![微信图片_20250922094023_86_220](https://github.com/user-attachments/assets/f9c96999-209d-482f-b6b5-82e3ea8871c0)
 ![微信图片_20250922094018_85_220](https://github.com/user-attachments/assets/81f11e13-87d0-4bea-976f-bdde620426ed)
 
 
